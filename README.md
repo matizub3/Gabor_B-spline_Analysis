@@ -110,7 +110,7 @@ Our poster also points toward future work involving **dual frame comparisons**, 
 ## Installation & Usage
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/matizub3/Gabor_B-spline_Analysis.git
 cd your-repo-name
 pip install numpy scipy matplotlib
 python main.py
