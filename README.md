@@ -1,4 +1,4 @@
-# Optimizing B-Spline-Based Gabor Systems for Signal Analysis
+# Time-Frequency Signal Approximation via Optimized B-Spline Gabor Systems
 
 A research-driven Python implementation for learning compact, high-fidelity function approximations using **B-spline-based Gabor systems**.
 
